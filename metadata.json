@@ -1,0 +1,6 @@
+{
+  "name": "🎀 Gigi — AI Companion",
+  "description": "Your snarky, bratty, valley girl AI companion with 3D interactions and memory.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Chat", "3D Rendering", "Voice Synthesis", "Memory System"]
+}
